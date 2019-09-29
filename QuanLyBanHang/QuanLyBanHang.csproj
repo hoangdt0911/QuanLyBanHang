@@ -789,6 +789,7 @@
     <Content Include="img\demo\profile-picture.jpg" />
     <Content Include="img\demo\wp-logo.png" />
     <Content Include="img\loading.gif" />
+    <Content Include="img\th.gif" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="ApplicationInsights.config">
